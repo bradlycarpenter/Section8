@@ -1,0 +1,2 @@
+﻿  Section8_TheAssignmentOperator.cpp
+C:\Users\carpe\source\repos\Section8_TheAssignmentOperator\Section8_TheAssignmentOperator\Section8_TheAssignmentOperator.cpp(13,5): error C3892: 'num1': you cannot assign to a variable that is const
