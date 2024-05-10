@@ -28,20 +28,20 @@ int main()
     //  cout << "Comparison result (not_equals): " << not_equal_result << endl;
 
     // Doubles
-    //  cout << "Enter two doubles seperated by a space: ";
-    //  double double1{}, double2{};
-    //  cin >> double1 >> double2;
-    //  equal_result = (double1 == double2);
-    //  not_equal_result = (double1 != double2);
-    //  cout << "Comparison result (equals): "  << equal_result << endl;
-    //  cout << "Comparison result (not_equals): " << not_equal_result << endl;
+    cout << "Enter two doubles seperated by a space: ";
+    double double1{}, double2{};
+    cin >> double1 >> double2;
+    equal_result = (double1 == double2);
+    // not_equal_result = (double1 != double2);
+    cout << "Comparison result (equals): " << equal_result << endl;
+    // cout << "Comparison result (not_equals): " << not_equal_result << endl;
 
     // Integer and Doubke
-    cout << "Enter an integer and a double seperated by a space: ";
-    double double1{};
-    cin >> num1 >> double1;
-    equal_result = (num1 == double1);
-    not_equal_result = (num1 != double1);
-    cout << "Comparison result (equals): " << equal_result << endl;
-    cout << "Comparison result (not_equals): " << not_equal_result << endl;
+    // cout << "Enter an integer and a double seperated by a space: ";
+    // double double1{};
+    // cin >> num1 >> double1;
+    // equal_result = (num1 == double1);
+    // not_equal_result = (num1 != double1);
+    // cout << "Comparison result (equals): " << equal_result << endl;
+    // cout << "Comparison result (not_equals): " << not_equal_result << endl;
 }
