@@ -58,4 +58,27 @@ cout <<
     // total -= count5 * coinnumber[3];
 
     // int count1 = total;     
+
+
+    // Chat GPT:
+    // Asking the user to enter the number of cents
+    // cout << "Enter the number of cents: ";
+    // cin >> cents;
+    
+    // // Calculating the number of each denomination
+    // int rands = cents / 100;
+    // int fifty_cents = (cents % 100) / 50;
+    // int twenty_cents = ((cents % 100) % 50) / 20;
+    // int ten_cents = (((cents % 100) % 50) % 20) / 10;
+    // int five_cents = ((((cents % 100) % 50) % 20) % 10) / 5;
+    // int one_cent = ((((cents % 100) % 50) % 20) % 10) % 5;
+    
+    // // Displaying the change
+    // cout << "Change: " << endl;
+    // cout << "Rands: " << rands << endl;
+    // cout << "50 cents: " << fifty_cents << endl;
+    // cout << "20 cents: " << twenty_cents << endl;
+    // cout << "10 cents: " << ten_cents << endl;
+    // cout << "5 cents: " << five_cents << endl;
+    // cout << "1 cent: " << one_cent << endl;
 }
